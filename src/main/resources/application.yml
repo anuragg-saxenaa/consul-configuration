@@ -1,0 +1,15 @@
+
+
+server:
+  port: 9090
+
+
+#spring:
+#  application:
+#    name: J300
+
+#J300:
+#  DEV:
+#    NY:
+#      name : "anurag"
+
